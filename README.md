@@ -1,15 +1,19 @@
-👋 Hi, I’m Eric Vu
+# Hi, I’m Eric Vu 👋
 
-🧑‍🎓 I'm a first-year Computer Science student at the University of British Columbia.
+I’m a computer science student at the University of British Columbia, based in Vancouver, BC. I build full-stack web and mobile apps and enjoy making them reliable through automated testing and thoughtful data design.
 
-🌱 Currently learning: Full-stack web development, algorithms, and machine learning.
+[Portfolio](https://eric-vu.com/) · [LinkedIn](https://www.linkedin.com/in/cs-eric-vu/) · [Email](mailto:vueric2005@gmail.com) · He/him
 
-💻 My main coding language is Java, with some experience in CSS, HTML, and JavaScript.
+## Experience
 
-🤝 I’m open to collaborating on: Exciting projects in software development, open-source contributions, and hackathons.
+- **Corinex Communications** — Incoming Software QA Co-op, Jan–Aug 2027.
+- **NellaDerm Therapeutics** — App Development Intern. Built a React Native prototype for eczema care and set up CI with 269 automated tests.
+- **UBC Game Development Club** — Built and playtested gameplay features for *Umbra* on a 15-person team using Godot.
 
-📫 How to reach me: vueric2005@gmail.com or www.linkedin.com/in/cs-eric-vu
+## Selected projects
 
-😄 Pronouns: he/him.
+- [**Everbetween**](https://everbetween.vercel.app/) — A couples app built with Next.js and Supabase. Partners’ answers stay private until both respond.
+- [**LitLink**](https://devpost.com/software/litlink) — A SwiftUI app that unlocks screen time after children read aloud and pass a comprehension quiz. Placed second at ProduHacks 2026.
+- [**Task Manager**](https://github.com/cauBeEzic/Task-Manager) — An offline-first Angular app that queues edits in IndexedDB and syncs them when the connection returns.
 
-⚡ Fun fact: I’m passionate about technology and enjoy building creative side projects in my free time.
+I’m open to collaborating on software projects, open source, and hackathons.
